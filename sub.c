@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	int a = 10;
-	int b = 20;
+	int a = 20;
+	int b = 10;
 	if(a>b)
 		printf("%d-%d=%d\n",a,b,a-b);
 	else
